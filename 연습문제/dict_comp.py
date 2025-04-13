@@ -1,2 +1,3 @@
 f_list = ["apple","banana","cherry"]
-print({f:len(f) for f in f_list})
+new_dict = {f:len(f) for f in f_list}
+print(new_dict)
