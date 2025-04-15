@@ -1,4 +1,4 @@
-# streamlit run streamlit_uicomponent.py
+# streamlit run stream_uicomponent.py
 
 import streamlit as st
 import pandas as pd
